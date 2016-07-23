@@ -7,3 +7,12 @@ C:\D\Crossover\projs\strong-test-dot-net-plugin\StrongTest\StrongTest.Core.Tests
 C:\D\Crossover\projs\strong-test-dot-net-plugin\StrongTest\StrongTest.Core.Tests\bin\Debug\nunit.framework.xml
 C:\D\Crossover\projs\strong-test-dot-net-plugin\StrongTest\StrongTest.Core.Tests\obj\Debug\StrongTest.Core.Tests.dll
 C:\D\Crossover\projs\strong-test-dot-net-plugin\StrongTest\StrongTest.Core.Tests\obj\Debug\StrongTest.Core.Tests.pdb
+C:\D\Crossover\projs\strong-test-dot-net-plugin-local\StrongTest\StrongTest.Core.Tests\bin\Debug\StrongTest.Core.Tests.dll
+C:\D\Crossover\projs\strong-test-dot-net-plugin-local\StrongTest\StrongTest.Core.Tests\bin\Debug\StrongTest.Core.Tests.pdb
+C:\D\Crossover\projs\strong-test-dot-net-plugin-local\StrongTest\StrongTest.Core.Tests\bin\Debug\nunit.framework.dll
+C:\D\Crossover\projs\strong-test-dot-net-plugin-local\StrongTest\StrongTest.Core.Tests\bin\Debug\StrongTest.Core.dll
+C:\D\Crossover\projs\strong-test-dot-net-plugin-local\StrongTest\StrongTest.Core.Tests\bin\Debug\StrongTest.Core.pdb
+C:\D\Crossover\projs\strong-test-dot-net-plugin-local\StrongTest\StrongTest.Core.Tests\bin\Debug\nunit.framework.xml
+C:\D\Crossover\projs\strong-test-dot-net-plugin-local\StrongTest\StrongTest.Core.Tests\obj\Debug\StrongTest.Core.Tests.csprojResolveAssemblyReference.cache
+C:\D\Crossover\projs\strong-test-dot-net-plugin-local\StrongTest\StrongTest.Core.Tests\obj\Debug\StrongTest.Core.Tests.dll
+C:\D\Crossover\projs\strong-test-dot-net-plugin-local\StrongTest\StrongTest.Core.Tests\obj\Debug\StrongTest.Core.Tests.pdb
