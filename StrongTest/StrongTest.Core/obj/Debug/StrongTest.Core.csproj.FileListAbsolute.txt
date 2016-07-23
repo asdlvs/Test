@@ -1,0 +1,5 @@
+C:\D\Crossover\projs\strong-test-dot-net-plugin\StrongTest\StrongTest.Core\bin\Debug\StrongTest.Core.dll
+C:\D\Crossover\projs\strong-test-dot-net-plugin\StrongTest\StrongTest.Core\bin\Debug\StrongTest.Core.pdb
+C:\D\Crossover\projs\strong-test-dot-net-plugin\StrongTest\StrongTest.Core\obj\Debug\StrongTest.Core.csprojResolveAssemblyReference.cache
+C:\D\Crossover\projs\strong-test-dot-net-plugin\StrongTest\StrongTest.Core\obj\Debug\StrongTest.Core.dll
+C:\D\Crossover\projs\strong-test-dot-net-plugin\StrongTest\StrongTest.Core\obj\Debug\StrongTest.Core.pdb
